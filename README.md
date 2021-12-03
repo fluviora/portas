@@ -1,2 +1,3 @@
 # portas
- Desafio das portas em NextJS
+ Desafio das portas com React/NextJS e typescript
+ 
